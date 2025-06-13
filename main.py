@@ -42,6 +42,7 @@ def index():
         </head>
         <body>
             <h1>Look ma! HTML!</h1>
+            <p>yakinikutabetai</p>
         </body>
     </html>
     """
